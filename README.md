@@ -1,30 +1,34 @@
-# Calories Analysis using Pandas
+# Overview
+This repository contains Python scripts, notebooks, and resources that I created while learning and practicing Data Science.
+The project covers:
+-Data cleaning
+-Data analysis
+-Exploratory data visualization
+-Basic machine learning models
+-General Python practice
+It is designed to help me improve my problem-solving skills, analytical thinking, and understanding of core Data Science concepts.
 
-This notebook, **Calories.ipynb**, explores calorie data using the Python library **Pandas**.  
-It focuses on understanding and analyzing how calories are distributed, summarized, and represented within the dataset.
+# Technologies Used
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Scikit-learn
+-Jupyter Notebook
 
----
+# Features
+-End-to-end data analysis workflow
+-Clean and readable code
+-Visualizations for better insights
+-Machine learning model experiments
+-Real-life dataset applications
 
-## Project Overview
+# Contributions
+-Contributions, suggestions, and improvements are welcome!
+-Feel free to open an issue or submit a pull request.
 
-The goal of this notebook is to:
-- Load and inspect a calorie dataset  
-- Clean and organize the data for easier analysis  
-- Perform summary statistics using Pandas  
-- Explore key relationships in the dataset through simple calculations and tabular insights  
-
----
-
-## Tools & Libraries Used
-- **Python 3**
-- **Pandas**
-
----
-
-## How to Run This Notebook
-
-1. Clone this repository or download the `Calories.ipynb` file.  
-2. Open it in **Jupyter Notebook** or **VS Code** (with Jupyter extension).  
-3. Install the required library:
-   ```bash
-   pip install pandas
+# Contact
+If you have questions or want to connect:
+Ogidan Timilehin
+📧 Email: Ogidan.Timilehin@gmail.com
+🔗 LinkedIn: [Link Text](https://www.linkedin.com/in/ogidan-timilehin-06838ab9)
